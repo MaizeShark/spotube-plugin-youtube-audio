@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "YouTube Audio",
-  "author": "Kingkor Roy Tirtho",
+  "author": "Niclas Eisenhut",
   "description": "YouTube audio source plugin for Spotube",
   "entryPoint": "YouTubeAudioSourcePlugin",
   "apis": ["localstorage"],
   "abilities": ["audio-source"],
-  "repository": "https://github.com/KRTirtho/spotube-plugin-youtube-audio",
+  "repository": "https://github.com/MaizeShark/spotube-plugin-youtube-audio",
   "pluginApiVersion": "2.0.0"
 }
