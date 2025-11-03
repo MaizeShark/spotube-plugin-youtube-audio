@@ -3,6 +3,7 @@
   "name": "YouTube Audio",
   "author": "Niclas Eisenhut",
   "description": "YouTube audio source plugin for Spotube",
+  "type": "metadata",
   "entryPoint": "YouTubeAudioSourcePlugin",
   "apis": ["localstorage"],
   "abilities": ["audio-source"],
